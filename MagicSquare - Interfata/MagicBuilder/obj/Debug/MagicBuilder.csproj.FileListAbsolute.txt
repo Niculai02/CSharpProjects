@@ -1,0 +1,6 @@
+C:\Users\40732\Desktop\ip\l4\MagicSquare - Interfata\MagicBuilder\bin\Debug\MagicBuilder.dll
+C:\Users\40732\Desktop\ip\l4\MagicSquare - Interfata\MagicBuilder\bin\Debug\MagicBuilder.pdb
+C:\Users\40732\Desktop\ip\l4\MagicSquare - Interfata\MagicBuilder\obj\Debug\MagicBuilder.csproj.AssemblyReference.cache
+C:\Users\40732\Desktop\ip\l4\MagicSquare - Interfata\MagicBuilder\obj\Debug\MagicBuilder.csproj.CoreCompileInputs.cache
+C:\Users\40732\Desktop\ip\l4\MagicSquare - Interfata\MagicBuilder\obj\Debug\MagicBuilder.dll
+C:\Users\40732\Desktop\ip\l4\MagicSquare - Interfata\MagicBuilder\obj\Debug\MagicBuilder.pdb

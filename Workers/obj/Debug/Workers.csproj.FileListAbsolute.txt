@@ -1,0 +1,11 @@
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.csproj.AssemblyReference.cache
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.csproj.SuggestedBindingRedirects.cache
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.MainForm.resources
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\bin\Debug\Workers.exe.config
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\bin\Debug\Workers.exe
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\bin\Debug\Workers.pdb
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.exe
+C:\Users\40732\Desktop\FACULTATION\an3\sem2\ip\l7\Interfata\obj\Debug\Workers.pdb
